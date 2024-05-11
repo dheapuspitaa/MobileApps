@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501130029953",
+    "project_id": "artverse-b3563",
+    "storage_bucket": "artverse-b3563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501130029953:android:88b1a1540ed55731ead680",
+        "android_client_info": {
+          "package_name": "com.example.artverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYK6GMLqdNzA2g3IWN3ZXO2ev5lvLD3eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

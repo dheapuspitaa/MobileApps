@@ -1,0 +1,44 @@
+name: artverse
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+  introduction_screen: ^3.1.12
+  google_fonts: 6.1.0
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.19.5
+  cloud_firestore: ^4.17.3
+  firebase_storage: ^11.7.5
+  image_picker: ^1.1.1
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter:
+  assets: 
+    - assets/logo.png
+    - assets/abstract.png
+    - assets/nature.png
+    - assets/realism.png
+    - assets/renaissance.png
+    - assets/art1.jpeg
+    - assets/art2.jpg
+    - assets/art3.jpeg
+    - assets/art4.jpeg
+    - assets/artist1.jpeg
+    - assets/artist2.jpeg
+    - assets/artist3.jpeg
+    - assets/artist4.jpeg
+    - assets/artist5.jpeg
+    - assets/artist6.jpeg
+  uses-material-design: true
+
